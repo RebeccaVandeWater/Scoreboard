@@ -1,0 +1,26 @@
+.body-background {
+    background-image: url(https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1323&q=80);
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading-font {
+    font-family: 'Black Ops One', cursive;
+}
+
+.number-background {
+    background: #4f6aaebd;
+    box-shadow: 0 4px 30px #0000001a;
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    border: 1px solid #5effffbb;
+    width: 5vw;
+}
+
+.dark-blue-background {
+    background: #152cf496;
+    box-shadow: 0 4px 30px #0000001a;
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    border: 1px solid #7a95f8eb;
+}
